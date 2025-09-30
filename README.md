@@ -106,15 +106,38 @@ Some of the visual components you might (or already do) include:
 - Top 10 Customers by Profit
 - Additional Information of Previous Customers like rank, current profit, current sales and last purchase date
 
-## Sample Insights & Recommendations
+## Superstore Dashboard Key Insights (2020 – 2023)
 
-Depending on what your data reveals, your project could highlight findings such as:
+### 2020 Dashboard Summary
+- **Total Performance:** $484.25K in Total Sales and $49.54K in Total Profit.  
+- **Product Drivers:** Phones and Chairs were the primary sub-categories generating the most sales and profit.  
+- **Customer Base:** 595 Total Customers resulting in 969 Total Orders.  
+- **Key Trend:** Monthly profit peaked late in the year (around month 11).  
 
-- A certain product category (or segment) is consistently underperforming → consider discount strategy, product rationalization, or marketing focus.  
-- Some regions (states / cities) are contributing disproportionately to profit / loss → reallocate resources, logistics planning.  
-- Seasonal peaks or dips suggest promotional timing.  
-- High discount rates negatively impacting profit margins.  
-- Identification of key customers or segments for upsell / retention efforts.
+### 2021 Dashboard Summary
+- **Profit Efficiency:** Total Sales slightly dropped to $470.53K, but Total Profit increased significantly to $61.62K, reflecting improved margins and efficiency.  
+- **Customer Activity:** Customer count declined to 573, but Total Orders increased to 1,038, suggesting stronger retention and repeat business.  
+- **Average Value:** Average Sales Per Customer rose to 821.2.  
+
+### 2022 Dashboard Summary
+- **Substantial Growth:** Total Sales jumped to $609.21K and Total Profit rose to $81.80K.  
+- **Customer Expansion:** Total Customers reached 638 and Total Orders climbed to 1,315.  
+- **Value Increase:** Average Sales Per Customer increased to 954.9.  
+
+### 2023 Dashboard Summary
+- **Peak Performance:** The best performing year, with $733.22K in Total Sales and $93.44K in Total Profit.  
+- **Product Shift:** Phones overtook Chairs as the top product in both sales and profit.  
+- **Peak Customer Metrics:**  
+  - 693 Total Customers  
+  - 1,687 Total Orders  
+  - Record 1,058 Average Sales Per Customer  
+
+### Overall Conclusion
+From 2020 to 2023, the company demonstrated accelerating growth in both sales and customer performance.  
+- Total Profit nearly doubled over the four years.  
+- Expansion in customer base and orders directly fueled profitability.  
+- Phones emerged as the leading revenue and profit driver.  
+
 
 ## How to Run / View
 
