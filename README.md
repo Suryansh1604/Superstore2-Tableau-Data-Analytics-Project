@@ -10,13 +10,43 @@ The key business challenge is:
 
 > *How can we analyze and visualize the Superstore sales data to uncover trends, performance across dimensions (region, category, product, time), and pinpoint opportunities or issues that inform strategic decisions?*
 
-Some sub-questions to address include:
+> The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
-- Which product categories or segments are underperforming or overperforming?
-- How do sales vary by geography (region, city, state)?
-- What are the seasonal / monthly / quarterly trends in sales, profit, and orders?
-- Which customers or segments drive the most revenue or profit?
-- Are there any anomalies, outliers, or opportunities for growth or optimization?
+> This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers.
+
+Some sub-questions to address include:
+1. 
+
+
+– Present the data for each KPI on a monthly basis for both the current year[Line Chart 1]  
+– Identify months with highest and lowest sales and make them easy to recognize[Line Chart 1]  
+
+
+2. **Product Subcategory Comparison**
+
+
+– Compare sales performance by different product subcategories for the current year   
+– Include a comparison of sales with profit.  
+
+
+4. **Weekly Trends for Sales & Profit**
+
+   
+– Present weekly sales and profit data for the current year.  
+– Display the average weekly values.  
+– Highlight weeks that are above and below the average to draw attention to sales & profit performance.  
+
+
+Represent the distribution of customers based on the number of orders they have placed to provide insights into customer behavior and engagement.
+
+
+6. **Top 10 Customers By Profit**
+
+
+– Present the top 10 customers who have generated the highest profits for the company.  
+– Show additional information like rank, number of orders, current sales, current profit and the last order date.  
+
+
 
 *(You may already have a “Problem Statement.txt” in your repo.)*
 
@@ -64,13 +94,17 @@ Below is a typical workflow / methodology you might follow (adapt as needed):
 
 Some of the visual components you might (or already do) include:
 
-- Sales vs Target comparisons  
-- Geographical maps of sales / profit by region / state / city  
-- Trend (time series) charts  
-- Category / segment performance (bar charts, tree maps)  
-- Customer segmentation / top customers  
-- Profit margins / discount analysis  
-- Filter / parameter driven interactive views  
+- Bans of Total Sales, Total Profit and Total Quantity Sales
+- Monthly trend of Sales, Profit and Quantity Sold  
+- SubCategory Performance by Sales and Comparison of Subcategory Sales with Profit
+- Weekly KPI(Profit and Sales) Trends 
+- Average KPI(Profit and sales) values
+
+- Bans of Total Order, Total Customers and Total Sales Per Orders
+- Monthly Trend of Order, Customers and Total Sales Per Custoers
+- Customer Distribution by different Order Size
+- Top 10 Customers by Profit
+- Additional Information of Previous Customers like rank, current profit, current sales and last purchase date
 
 ## Sample Insights & Recommendations
 
