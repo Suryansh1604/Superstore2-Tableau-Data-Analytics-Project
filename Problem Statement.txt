@@ -44,3 +44,4 @@ Dashboard Dynamic
 
 Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
+
