@@ -1,7 +1,8 @@
 # Superstore2 — Tableau Data Analytics Project
 [Tableau Public Data Analytics Project](https://public.tableau.com/views/SuperStoreSalesandCustomerDashboard/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)   
 
-[Tableau Desktop Data Analytics Project]
+[Tableau Desktop Data Analytics Project](https://github.com/Suryansh1604/Superstore2-Tableau-Data-Analytics-Project/blob/main/salesproject%20tableau.twb)
+- Click on Download icon to download file
 
 ## Project Overview
 
